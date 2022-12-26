@@ -1,0 +1,146 @@
+body{
+   margin: 0;
+   padding: 0;
+   font-family: 'Quicksand';
+   font-size: 22px;
+   
+}
+
+
+#banner{
+    margin-top: -115px;
+    background-image:url("https://images.wallpaperscraft.com/image/single/laptop_keyboard_glow_170138_3840x2400.jpg");
+    background-size: cover;
+    background-position: center;
+height: 100vh;
+}
+
+
+nav{
+    background-color:#000000;
+   
+}
+.navbar-nav{
+    margin-left: 40px;
+    
+}
+.navbar-nav li a {
+    color: white !important;
+    margin-left: 35px;
+}
+
+
+.img-fluid{
+    border-radius: 50%;
+    margin-top: 50px;
+}
+
+.para{
+    margin-top: -50px;
+    Padding-top: 80px;
+    /* text-align: center; */
+}
+
+
+.para1{
+    margin-top: 15px;
+}
+
+
+
+
+
+.mob i{
+    
+    position: absolute;
+    left: -190px;
+    margin-top: 8px;
+    color: burlywood;
+    margin-left: 100px;
+padding-left: 60px;
+margin-bottom: 12px;
+}
+
+
+
+.gmail i{
+    position: absolute;
+    left: -190px;
+    margin-top: 9px;
+    color: burlywood;
+    margin-left: 100px;
+padding-left: 60px;
+margin-bottom: 12px;
+}
+
+.experience i{
+    position: absolute;
+    left: -190px;
+    margin-top: 9px;
+    color: burlywood;
+    margin-left: 100px;
+padding-left: 60px;
+margin-bottom: 12px;
+}
+
+.education i{
+    position: absolute;
+    left: -190px;
+    margin-top: 9px;
+    color: burlywood;
+    margin-left: 100px;
+padding-left: 60px;
+margin-bottom: 12px;
+}
+
+.address i{
+position: absolute;
+left: -190px;
+margin-top: 9px;
+color: burlywood;
+margin-left: 100px;
+padding-left: 60px;
+margin-bottom: 12px;
+}
+
+.btn1{
+width: 200px;
+text-align: center;
+border-radius: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.form-box {
+
+    max-width: 500px;
+    margin: auto;
+    padding: 50px;
+    background-color: black;
+    border: 5px solid #f2f2f2;
+  }
+  
+  
+  input, textarea {
+      
+      text-align: center;
+      margin-top: 20px;
+    width: 100%;
+  }
+
+  
+  #about{
+      margin-top: -66px;
+  }
+
+  
